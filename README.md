@@ -9,7 +9,7 @@ Hi i am Parth, Currently pursuing by B.E (Third Year) in Computer Engineering fr
 - 👯 I’m looking to collaborate on any web dev or python projects. <br>
 - 💬 Ask me about Django or anything else, would love to help <br>
 - 📫 How to reach me: mahajanparth19@gmail.com <br>
-- ⚡ Fun fact: I love reading and watching shows, So open to discussion on those too . <br>
+- ⚡ Fun fact: I love Problem solving, reading and watching shows, So open to discussion on those too . <br>
 
 <br>
 <br>
