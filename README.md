@@ -3,7 +3,7 @@ Hi i am Parth, Currently pursuing by B.E (Third Year) in Computer Engineering fr
 <hr>
 <!--
 **mahajanparth19/mahajanparth19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Hopsital Management project. <br>
