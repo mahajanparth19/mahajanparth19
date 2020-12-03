@@ -1,8 +1,6 @@
 ### Hi there 👋
 Hi i am Parth, Currently pursuing by B.E (Third Year) in Computer Engineering from Thapar Institute of Technology, Patiala ,Punjab
 <hr>
-![Github stats](https://komarev.com/ghpvc/?username=mahajanparth19&color=dc143c)
-<hr>
 <!--
 **mahajanparth19/mahajanparth19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
